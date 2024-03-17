@@ -55,6 +55,11 @@ a:hover {
 .color-text-offwhite{
   color:#fff;
 }
+.text-skills{
+  color: beige;
+  margin-top: 20px;
+  font-style: italic;
+}
 .box-shadow,
 .card-blog,
 .work-box,
